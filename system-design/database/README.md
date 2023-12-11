@@ -137,7 +137,7 @@
 ## Advantages and disadvantages of a distributed database
 ### Advantages
 - It’s fast and easy to access data in a distributed database because data is retrieved from the nearest database shard or the one frequently used.
-- Data with different level of distribution transparency can be stored in separate places.
+- Data with different levels of distribution transparency can be stored in separate places.
 - Intensive transactions consisting of queries can be divided into multiple optimized subqueries, which can be processed in a parallel fashion.
 ### Disadvantages
 - Sometimes, data is required from multiple sites, which takes more time than expected.
