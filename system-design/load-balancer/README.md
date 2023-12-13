@@ -2,7 +2,7 @@
 
 ## About it
 
-- Nowadays, there are many applications that need to deal with millions of requests per second. This scenario might cause some problems, such as overloading. To solve this situation, people design the component, the `load balancer`. The main job of the load balancer is to fairly divide all the clients' requests to the available servers on the pool. With this, systems can avoid overloading or crashing servers.
+- Nowadays, there are many applications that need to deal with millions of requests per second. This scenario might cause some problems, such as overloading. To solve this situation, people design the component, the `load balancer`. The main job of the load balancer is to fairly divide all the client's requests to the available servers on the pool. With this, systems can avoid overloading or crashing servers.
 
 ## Non-functional
 
